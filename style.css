@@ -1,0 +1,19 @@
+/* style.css */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+}
+
+.hero-title {
+  color: #007bff;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.card {
+  border: none;
+  border-radius: 15px;
+}
+
+footer {
+  background-color: #343a40;
+}
