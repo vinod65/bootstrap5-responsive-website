@@ -36,7 +36,7 @@ This is a simple, modern, and fully responsive website built using **Bootstrap 5
 ## 🚀 Live Demo
 
 🔗 **Live URL**: [https://vinod65.github.io/bootstrap5-project/](https://vinod65.github.io/bootstrap5-project/)  
-📁 **GitHub Repo**: [https://github.com/vinod65/bootstrap5-project](https://github.com/vinod65/bootstrap5-project)
+📁 **GitHub Repo**: [[https://github.com/vinod65/bootstrap5-project](https://github.com/vinod65/bootstrap5-project)](https://github.com/vinod65/bootstrap5-responsive-website.git)
 
 > Replace `vinod65` with your GitHub username
 
